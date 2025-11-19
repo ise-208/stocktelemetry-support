@@ -1,53 +1,55 @@
-# NEOCUT プライバシーポリシー（Privacy Policy）
+# StockTelemetry プライバシーポリシー
 
-NEOCUT はユーザーのプライバシーを尊重し、適切に取り扱います。
+本アプリ「StockTelemetry」は、ユーザーのプライバシーを尊重します。
+
+---
 
 ## 収集する情報
-- 端末識別子（インストール ID）
-- アプリ利用状況（Firebase Analytics）
+- 端末識別子（インストールID）
+- 通知用のトークン（Firebase Cloud Messaging）
+- アプリの利用状況（Firebase Analytics）
 - クラッシュ情報（Firebase Crashlytics）
 
 ## 利用目的
-- アプリ品質改善
-- 不具合調査・修正
-- 機能改善のための分析
+- アラート通知の提供
+- アプリの改善、品質向上
+- 不具合の調査と修正
 
 ## 第三者提供
-取得したデータを、ユーザーを特定できる形で第三者に**販売・提供することはありません**。
+取得した情報を第三者に販売・提供することはありません。
 
-## データの管理
+## データの保存
 Firebase 等のクラウドサービスを利用して安全に管理します。
 
 ## 免責
-本アプリは投資助言を目的としたものではありません。  
-表示情報の正確性は保証されず、利用によって生じたいかなる損害についても責任を負いません。
-
-_Last updated: 2025-11-20_
+本アプリは投資助言を目的とせず、通知内容の正確性を保証しません。  
+利用は自己責任でお願いします。
+表示される情報の正確性・完全性を保証するものではありません。
 
 ---
 
 # Privacy Policy (English)
 
-NEOCUT respects user privacy and handles data carefully.
-
-## Data Collected
-- Device identifier (Install ID)
-- App usage analytics (Firebase Analytics)
+**Data Collected**
+- Device ID (Install ID)
+- Notification tokens (Firebase Cloud Messaging)
+- App usage (Firebase Analytics)
 - Crash reports (Firebase Crashlytics)
 
-## Purpose of Use
-- Improving app quality
-- Investigating and fixing issues
-- Analytics for feature enhancement
+**Purpose**
+- Provide alert notifications
+- Improve app quality
+- Investigate and fix issues
 
-## Data Sharing
-No personally identifiable data is sold or shared with third parties.
+**Sharing**
+No personal data is sold or shared with third parties.
 
-## Data Storage
+**Storage**
 Data is securely managed using Firebase services.
 
-## Disclaimer
-This app does not provide investment advice.  
-Accuracy of displayed data is not guaranteed. Use at your own risk.
+**Disclaimer**
+This app does not provide investment advice. Use at your own risk.
 
-_Last updated: 2025-11-20_
+---
+
+_Last updated: 2025-09-01_
